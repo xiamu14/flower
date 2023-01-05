@@ -1,8 +1,12 @@
 lockfileVersion: 5.4
 
 specifiers:
+  howler: ^2.2.3
   sass: ^1.57.1
   vite: ^4.0.0
+
+dependencies:
+  howler: 2.2.3
 
 devDependencies:
   sass: 1.57.1
@@ -305,6 +309,10 @@ packages:
     dependencies:
       function-bind: 1.1.1
     dev: true
+
+  /howler/2.2.3:
+    resolution: {integrity: sha512-QM0FFkw0LRX1PR8pNzJVAY25JhIWvbKMBFM4gqk+QdV+kPXOhleWGCB6AiAF/goGjIHK2e/nIElplvjQwhr0jg==}
+    dev: false
 
   /immutable/4.2.1:
     resolution: {integrity: sha512-7WYV7Q5BTs0nlQm7tl92rDYYoyELLKHoDMBKhrxEoiV4mrfVdRz8hzPiYOzH7yWjzoVEamxRuAqhxL2PLRwZYQ==}
